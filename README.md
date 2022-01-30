@@ -1,6 +1,6 @@
 # RTSP_video_stream
 
-##This tutorial contains: <br/> <br/>
+This tutorial contains: <br/> <br/>
 RTSP video stream on wifi <br/>
 gstreamer in opencv
 
