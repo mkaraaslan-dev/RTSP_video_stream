@@ -104,12 +104,14 @@ This is my Gstreamer pipeline RECEIVER script line:
 ### My project. Video stream with opencv in GCS (for information GCS : https://github.com/KARAASLAN-AI/Basic_T_Ground_Station_Control) 
 ![GCS_photo](https://github.com/KARAASLAN-AI/RTSP_video_stream/blob/main/ezgif.com-gif-maker.gif)
 
-Soruce Link
+## Contact
+
+Mahmut KARAASLAN --> mkaraaslan719@gmail.com
+
+## Soruce Link
 
 https://github.com/PhysicsX/Gstreamer-on-embedded-devices <br/>
 https://galaktyk.medium.com/how-to-build-opencv-with-gstreamer-b11668fa09c <br/>
 https://answers.opencv.org/question/202017/how-to-use-gstreamer-pipeline-in-opencv/ <br/>
 
-## Contact
-
-Mahmut KARAASLAN --> mkaraaslan719@gmail.com 
+ 
