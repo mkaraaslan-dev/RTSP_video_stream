@@ -106,7 +106,7 @@ This is my Gstreamer pipeline RECEIVER script line:
 
 ## Contact
 
-Mahmut KARAASLAN --> mkaraaslan719@gmail.com
+Mahmut KARAASLAN : mkaraaslan719@gmail.com
 
 ## Soruce Link
 
