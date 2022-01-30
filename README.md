@@ -99,7 +99,7 @@ This is my Gstreamer pipeline RECEIVER script line:
 
 ### opencv capture use
 
-`cap = cv2.VideoCapture("udpsrc port=5000 ! application/x-rtp,media=video,payload=26,clock-rate=90000,encoding-name=JPEG,framerate=30/1 ! rtpjpegdepay ! jpegdec ! videoconvert ! appsink",cv2.CAP_GSTREAMER)`
+`cap = cv2.VideoCapture("udpsrc port=5200 ! application/x-rtp,media=video,payload=26,clock-rate=90000,encoding-name=JPEG,framerate=30/1 ! rtpjpegdepay ! jpegdec ! videoconvert ! appsink",cv2.CAP_GSTREAMER)`
 
 ### My project. Video stream with opencv in GCS (for information GCS : https://github.com/KARAASLAN-AI/Basic_T_Ground_Station_Control) 
 ![GCS_photo](https://github.com/KARAASLAN-AI/RTSP_video_stream/blob/main/ezgif.com-gif-maker.gif)
