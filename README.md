@@ -114,4 +114,3 @@ https://github.com/PhysicsX/Gstreamer-on-embedded-devices <br/>
 https://galaktyk.medium.com/how-to-build-opencv-with-gstreamer-b11668fa09c <br/>
 https://answers.opencv.org/question/202017/how-to-use-gstreamer-pipeline-in-opencv/ <br/>
 
- 
