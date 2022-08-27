@@ -24,8 +24,6 @@ sudo apt-get install libgstreamer-plugins-base1.0-dev
 ```pip3 install numpy```
 
 
-
-
 ## Compile Opencv with Gstreamer
 ### remove current opencv
 `pip3 uninstall opencv-python`
