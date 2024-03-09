@@ -21,12 +21,17 @@ sudo apt-get install libgstreamer-plugins-base1.0-dev
 
 ## İnstall numpy
 
-```pip3 install numpy```
+```
+pip3 install numpy
+```
 
 
 ## Compile Opencv with Gstreamer
 ### remove current opencv
-`pip3 uninstall opencv-python`
+```
+pip3 uninstall opencv-python
+```
+
 ### Clone opencv repo
 ```
 git clone https://github.com/opencv/opencv.git
@@ -66,7 +71,9 @@ if something went wrong just remove build folder and try again.
 
 ## Building
 
-```sudo make -j$(nproc)```
+```
+sudo make -j$(nproc)
+```
 
 ## Install package
 
