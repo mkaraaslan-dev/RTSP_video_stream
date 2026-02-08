@@ -119,7 +119,7 @@ cap = cv2.VideoCapture("udpsrc port=5200 ! application/x-rtp,media=video,payload
 
 Mahmut KARAASLAN : mkaraaslan719@gmail.com
 
-## Soruce Link
+## Source Link
 
 https://github.com/PhysicsX/Gstreamer-on-embedded-devices <br/>
 https://galaktyk.medium.com/how-to-build-opencv-with-gstreamer-b11668fa09c <br/>
